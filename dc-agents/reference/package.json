@@ -25,7 +25,7 @@
     "@hasura/dc-api-types": "0.44.0",
     "fastify": "^4.13.0",
     "mathjs": "^11.0.0",
-    "pino-pretty": "^8.0.0",
+    "pino-pretty": "^13.0.0",
     "xml2js": "github:Leonidas-from-XIV/node-xml2js"
   },
   "devDependencies": {
