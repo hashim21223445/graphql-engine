@@ -29,7 +29,7 @@
     "openapi3-ts": "^2.0.2",
     "pino-pretty": "^8.1.0",
     "sqlite-parser": "^1.0.1",
-    "sqlite3": "^5.1.4",
+    "sqlite3": "^5.1.7",
     "sqlstring-sqlite": "^0.1.1"
   },
   "devDependencies": {
