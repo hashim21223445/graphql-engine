@@ -2,7 +2,7 @@
 # Regenerate requirements.txt by running `make server/tests-py/requirements.txt`.
 
 croniter
-cryptography == 3.*  # later versions require Rust support
+cryptography==46.0.5  # later versions require Rust support
 graphene == 2.*  # v3 has changed the API
 graphql-core
 jsondiff
